@@ -1,0 +1,11 @@
+#example1{
+      background-image: url("../img/place1.png"), url("../img/place2.png");
+      background-position: right bottom, left top;
+      background-repeat: no-repeat, repeat;
+}
+
+.wrapper{
+      height: 80vh;
+      width: 80vw;
+      background-color: #e7e7e738;
+}
